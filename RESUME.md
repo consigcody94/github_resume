@@ -8,6 +8,12 @@ Highly skilled and dedicated IT professional with over 8 years of experience in 
 
 ## Experience
 
+### Federal Working Group (Contractor for NOAA)
+**System Administrator (ASOS)** | *Full-time*
+*2025 - Present* | *Maryland, United States*
+* Current System Administrator for the Automated Surface Observing System (ASOS) program.
+* Managing and maintaining critical weather observation infrastructure for NOAA.
+
 ### Sentinel Owl Technologies
 **Network Engineer** | *Full-time*
 *Jan 2025 - Present* | *Jonesboro-Paragould Area (On-site)*
