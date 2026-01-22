@@ -20,13 +20,13 @@ Highly skilled and dedicated IT professional with over 8 years of experience in 
 * Current role focusing on network engineering and infrastructure support.
 
 ### NEA IT Services LLC
-**Business Owner** | *Self-employed*
-*Jan 2025 - Aug 2025* | *Jonesboro-Paragould Area (On-site)*
+**Network Technician**
+*Jan 2025 - Aug 2025* | *Jonesboro, AR*
 * Founded and operated an IT services business providing tailored solutions to local clients.
 
 ### DMV Ethernet Runs LLC
-**Company Owner** | *Self-employed*
-*Mar 2023 - Aug 2025* | *Maryland, United States (Hybrid)*
+**Network Technician**
+*Mar 2023 - Aug 2025* | *Rockville, MD*
 * **Rebranding & Expansion:** Successfully rebranded from CCTECH to DMV Ethernet Runs to reflect a focus on comprehensive Ethernet and low voltage cabling solutions.
 * **Strategic Growth:** Relocated operations to the DMV area to serve a larger customer base, delivering top-notch IT solutions.
 * **Client Relations:** Built strong relationships with clients by combining cutting-edge technology with a personalized approach to service.
@@ -34,13 +34,13 @@ Highly skilled and dedicated IT professional with over 8 years of experience in 
 
 ### Ikigai One
 **Information Technology Consultant** | *Contract*
-*Mar 2022 - Aug 2025* | *Washington DC-Baltimore Area (Hybrid)*
+*Mar 2022 - Aug 2025* | *New Jersey, United States*
 * **Process Optimization:** Thrived in optimizing business processes and IT infrastructure for maximum efficiency.
 * **Solution Implementation:** Identified and implemented cutting-edge solutions tailored to specific business needs.
 * **Project Management:** Demonstrated a proven track record of successful IT project management.
 
 ### IT Field Service Technician
-**Independent Contractor / Business Owner**
+**Field Service Technician**
 *Jan 2017 - Mar 2023* | *Rockville, Maryland, United States*
 * **Technical Support:** Provided efficient troubleshooting for PCs and office equipment.
 * **Cabling Systems:** Designed and installed comprehensive cabling systems.
