@@ -16,7 +16,7 @@ Highly skilled and dedicated IT professional with over 8 years of experience in 
 
 ### Sentinel Owl Technologies
 **Network Engineer** | *Full-time*
-*Jan 2025 - Present* | *Jonesboro-Paragould Area (On-site)*
+*Jan 2025 - Present* | *Rockville, MD (On-site)*
 * Current role focusing on network engineering and infrastructure support.
 
 ### NEA IT Services LLC
